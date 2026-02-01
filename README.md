@@ -40,7 +40,7 @@ OptiPrice-Prognosticator-Prediction/
   ## Screenshots
 
 ### Home Dashboard
-![Home](screenshots/home.png)
+![Home]([screenshots/home.png](https://github.com/Thogaivalli-26/OptiPrice-Prognosticator-Prediction/blob/main/optipricing_home_1.png))
 
 ### Dataset Explorer & Statistics
 ![Data Explorer](screenshots/data_explorer.png)
