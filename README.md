@@ -37,6 +37,30 @@ OptiPrice-Prognosticator-Prediction/
 - Interactive visualizations using Plotly
 - Streamlit-based interactive dashboard
 
+  ## Screenshots
+
+### Home Dashboard
+![Home](screenshots/home.png)
+
+### Dataset Explorer & Statistics
+![Data Explorer](screenshots/data_explorer.png)
+
+### Data Visualizations
+![Visualizations](screenshots/data_visualizations.png)
+
+### Model Training
+![Training](screenshots/train_models.png)
+
+### Model Comparison
+![Model Comparison](screenshots/model_comparison.png)
+
+### Price Prediction – Input
+![Prediction Input](screenshots/prediction_input.png)
+
+### Price Prediction – Output
+![Prediction Result](screenshots/prediction_result.png)
+
+
 ## How to Run the Application
 
 1. Clone the repository
